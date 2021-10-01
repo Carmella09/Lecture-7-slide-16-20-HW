@@ -27,7 +27,7 @@
         return 0;
     }
 
-    //Starting a Band (I think I did it wrong and it keeps on giving error when I tried to copy the one on slides 18)
+    //Starting a Band (I think I did it wrong here and it keeps on giving error when I tried to copy the one on slides 18)
     #include <iostream>
     #include <string>
     using namespace std;
