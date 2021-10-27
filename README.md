@@ -1,6 +1,7 @@
 # Lecture-7-slide-16-20-HW
 
-    // Mark my Words
+ // Mark my Words
+    
     using namespace std;
     int main()
     {
@@ -27,7 +28,8 @@
         return 0;
     }
 
-    //Starting a Band (I think I did it wrong here and it keeps on giving error when I tried to copy the one on slides 18)
+//Starting a Band (I think I did it wrong here and it keeps on giving error when I tried to copy the one on slides 18)
+    
     #include <iostream>
     #include <string>
     using namespace std;
@@ -48,30 +50,32 @@
       }
     }
 
-    // Killing time
-    using namespace std;
-    int main()
-    {
-        bool lessMinute = true;
-        bool anotherMinute = false;
-        bool haveMoney = false; 
+// Killing time
+   
+       using namespace std;
+        int main()
+        {
+            bool lessMinute = true;
+            bool anotherMinute = false;
+            bool haveMoney = false; 
 
-        if (anotherMinute) {
-          if (haveMoney)
-            {
-            cout << "Go buy coffee" << endl;
+            if (anotherMinute) {
+              if (haveMoney)
+                {
+                cout << "Go buy coffee" << endl;
+                }
+                else
+                {
+                cout << "Go for a walk around the town." << endl;
+                }
             }
-            else
-            {
-            cout << "Go for a walk around the town." << endl;
-            }
+             else {
+             cout << "Sit in the food zone and wait." << endl;
+           }
         }
-         else {
-         cout << "Sit in the food zone and wait." << endl;
-       }
-    }
 
-    //Earthquake 
+//Earthquake 
+    
     using namespace std;
     int main()
     {
